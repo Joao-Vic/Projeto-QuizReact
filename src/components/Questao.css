@@ -1,0 +1,19 @@
+#Questao{
+    text-align: center;
+    max-width: 500px;
+    background-color: green;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+#Questao h2{
+    margin-bottom: 2rem;
+}
+
+#Questao p{
+    margin-bottom: 1rem;
+}
+
+#Questao button{
+    border: 2px solid white;
+}

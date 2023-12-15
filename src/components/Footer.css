@@ -1,0 +1,18 @@
+.Footer {
+    margin-top: 2rem;
+    width: 100%;
+    background-color: #DB4F3A;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Footer div {
+    margin: 1rem;
+}
+
+.Footer p {
+    font-size: 13px;
+    text-align: left;
+}
